@@ -2,7 +2,9 @@
 SQL for Data Science repository! This repository contains SQL scripts, queries, and case studies focused on extracting insights from data efficiently. 
 
 📌 What's Inside?
+
 📁 Datasets – Sample datasets used for querying.
+
 📁 Queries – Optimized SQL queries for various data science use cases.
 
 🚀 Topics Covered
